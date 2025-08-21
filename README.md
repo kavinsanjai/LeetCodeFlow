@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0290-word-pattern](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0290-word-pattern) |
 | [0415-add-strings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0415-add-strings) |
+| [1156-occurrences-after-bigram](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1156-occurrences-after-bigram) |
 ## Array
 |  |
 | ------- |
