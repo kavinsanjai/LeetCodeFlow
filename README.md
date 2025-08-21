@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0290-word-pattern) |
+| [0415-add-strings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0415-add-strings) |
 ## Array
 |  |
 | ------- |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Math
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
