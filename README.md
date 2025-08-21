@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-occurrences-after-bigram](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1156-occurrences-after-bigram) |
 | [1205-defanging-an-ip-address](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1651-shuffle-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1651-shuffle-string) |
 ## Array
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0349-intersection-of-two-arrays) |
 | [0924-fair-candy-swap](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0924-fair-candy-swap) |
+| [1651-shuffle-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1651-shuffle-string) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2634-minimum-common-value) |
