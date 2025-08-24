@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1619-path-crossing) |
 | [1651-shuffle-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1651-shuffle-string) |
+| [1797-goal-parser-interpretation](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1797-goal-parser-interpretation) |
 ## Array
 |  |
 | ------- |
