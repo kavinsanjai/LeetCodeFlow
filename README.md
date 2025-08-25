@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1797-goal-parser-interpretation) |
 | [1812-reformat-phone-number](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1812-reformat-phone-number) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Array
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1651-shuffle-string) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2634-minimum-common-value](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
