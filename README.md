@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-reformat-phone-number](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1812-reformat-phone-number) |
 | [1944-truncate-sentence](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1954-replace-all-digits-with-characters) |
+| [1970-sorting-the-sentence](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1970-sorting-the-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Array
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0561-array-partition) |
 | [0924-fair-candy-swap](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0924-fair-candy-swap) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1970-sorting-the-sentence](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1970-sorting-the-sentence) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
