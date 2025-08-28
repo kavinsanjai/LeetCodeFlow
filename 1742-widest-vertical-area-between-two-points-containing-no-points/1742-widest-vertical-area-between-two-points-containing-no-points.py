@@ -3,7 +3,8 @@ class Solution(object):
         maxi=0
         points.sort()
         for i in range(1,len(points)):
-            if (points[i][0]-points[i-1][0])>maxi:
-                maxi=points[i][0]-points[i-1][0]
+            sub=points[i][0]-points[i-1][0]
+            if sub >maxi:
+                maxi=sub
         return maxi
         
