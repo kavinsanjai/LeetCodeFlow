@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0415-add-strings) |
 ## Simulation
 |  |
