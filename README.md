@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1791-richest-customer-wealth](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1791-richest-customer-wealth) |
 | [1944-truncate-sentence](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1944-truncate-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0566-reshape-the-matrix) |
+| [1791-richest-customer-wealth](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1791-richest-customer-wealth) |
 ## Sliding Window
 |  |
 | ------- |
