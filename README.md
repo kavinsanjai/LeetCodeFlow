@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0645-set-mismatch) |
 | [0749-shortest-completing-word](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0749-shortest-completing-word) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
