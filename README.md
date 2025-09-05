@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0073-set-matrix-zeroes) |
 | [0290-word-pattern](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0349-intersection-of-two-arrays) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0347-top-k-frequent-elements) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0566-reshape-the-matrix) |
 | [1791-richest-customer-wealth](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1791-richest-customer-wealth) |
 ## Sliding Window
