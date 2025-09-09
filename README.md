@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0645-set-mismatch) |
 | [0749-shortest-completing-word](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0749-shortest-completing-word) |
+| [0898-transpose-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0898-transpose-matrix) |
 | [0924-fair-candy-swap](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0924-fair-candy-swap) |
 | [1293-three-consecutive-odds](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1293-three-consecutive-odds) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0566-reshape-the-matrix) |
+| [0898-transpose-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1505-create-target-array-in-the-given-order) |
 ## Greedy
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0566-reshape-the-matrix) |
+| [0898-transpose-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1791-richest-customer-wealth) |
 ## Sliding Window
 |  |
