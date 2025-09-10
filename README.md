@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0749-shortest-completing-word](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0749-shortest-completing-word) |
+| [0851-goat-latin](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0851-goat-latin) |
 | [1156-occurrences-after-bigram](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1156-occurrences-after-bigram) |
 | [1205-defanging-an-ip-address](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1341-split-a-string-in-balanced-strings) |
