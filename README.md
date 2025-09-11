@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0415-add-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1635-number-of-good-pairs) |
+| [1806-count-of-matches-in-tournament](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2491-smallest-even-multiple) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1505-create-target-array-in-the-given-order) |
+| [1806-count-of-matches-in-tournament](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1806-count-of-matches-in-tournament) |
 ## Greedy
 |  |
 | ------- |
