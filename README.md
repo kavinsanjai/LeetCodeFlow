@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0924-fair-candy-swap) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1256-rank-transform-of-an-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1547-destination-city](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1619-path-crossing) |
 | [1635-number-of-good-pairs](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1635-number-of-good-pairs) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1293-three-consecutive-odds) |
 | [1299-k-concatenation-maximum-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1299-k-concatenation-maximum-sum) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1505-create-target-array-in-the-given-order](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1505-create-target-array-in-the-given-order) |
 | [1547-destination-city](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1547-destination-city) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0861-flipping-an-image](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0861-flipping-an-image) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2634-minimum-common-value](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2634-minimum-common-value) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0924-fair-candy-swap](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0924-fair-candy-swap) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0924-fair-candy-swap) |
 | [1256-rank-transform-of-an-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1256-rank-transform-of-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1741-sort-array-by-increasing-frequency) |
