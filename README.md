@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-path-crossing](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1619-path-crossing) |
 | [1635-number-of-good-pairs](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2634-minimum-common-value](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2634-minimum-common-value) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1970-sorting-the-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2401-count-asterisks](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2401-count-asterisks) |
 ## Array
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1635-number-of-good-pairs](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1635-number-of-good-pairs) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3778-transform-array-by-parity](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3778-transform-array-by-parity) |
 ## Math
