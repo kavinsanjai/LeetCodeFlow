@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1293-three-consecutive-odds) |
 | [1299-k-concatenation-maximum-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1299-k-concatenation-maximum-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1319-unique-number-of-occurrences) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0643-maximum-average-subarray-i) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2211-k-radius-subarray-averages](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2211-k-radius-subarray-averages) |
 ## Bit Manipulation
