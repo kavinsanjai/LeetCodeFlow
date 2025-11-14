@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0645-set-mismatch) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0500-keyboard-row) |
+| [0567-permutation-in-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0647-palindromic-substrings) |
 | [0749-shortest-completing-word](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0749-shortest-completing-word) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0647-palindromic-substrings) |
 | [0861-flipping-an-image](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0861-flipping-an-image) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0643-maximum-average-subarray-i) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
