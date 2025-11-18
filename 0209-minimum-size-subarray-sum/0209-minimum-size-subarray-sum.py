@@ -14,6 +14,5 @@ class Solution(object):
                     if cur_sum >= target:
                          cur_len=i-l+1
                 min_len=min(cur_len,min_len)
-                print(min_len,cur_len)
         return 0 if min_len > len(nums) else min_len
 
