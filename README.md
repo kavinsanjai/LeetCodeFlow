@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1256-rank-transform-of-an-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1319-unique-number-of-occurrences) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1547-destination-city](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1619-path-crossing) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-occurrences-after-bigram](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1156-occurrences-after-bigram) |
 | [1205-defanging-an-ip-address](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1542-consecutive-characters](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1542-consecutive-characters) |
 | [1547-destination-city](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1547-destination-city) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1046-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2211-k-radius-subarray-averages](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2211-k-radius-subarray-averages) |
