@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0728-self-dividing-numbers) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0647-palindromic-substrings) |
 | [1299-k-concatenation-maximum-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1299-k-concatenation-maximum-sum) |
@@ -331,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1094-matrix-cells-in-distance-order](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1115-valid-boomerang) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
