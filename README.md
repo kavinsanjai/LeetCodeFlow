@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0200-number-of-islands) |
+| [0543-diameter-of-binary-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -373,9 +374,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
