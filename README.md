@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0283-move-zeroes) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0861-flipping-an-image) |
@@ -355,9 +357,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0733-flood-fill) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
