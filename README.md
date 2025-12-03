@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0940-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0994-rotting-oranges) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1020-number-of-enclaves](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1020-number-of-enclaves) |
 | [1046-max-consecutive-ones-iii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1046-max-consecutive-ones-iii) |
 | [1094-matrix-cells-in-distance-order](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1115-valid-boomerang) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0898-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1020-number-of-enclaves) |
 | [1094-matrix-cells-in-distance-order](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1094-matrix-cells-in-distance-order) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -390,12 +393,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1020-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1020-number-of-enclaves) |
 ## Tree
 |  |
 | ------- |
