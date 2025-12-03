@@ -5,13 +5,15 @@ class Solution(object):
         q=deque()
         mini=0
         fresh=0
-
         for i in range(0,len(grid)):
             for j in range(0,len(grid[0])):
                 if grid[i][j]==2:
                     q.append((i,j))
                 elif grid[i][j]==1:
                     fresh+=1
+        
+        if fresh==0:
+            return 0
       
         while q and fresh>0:
             for _ in range(len(q)):
