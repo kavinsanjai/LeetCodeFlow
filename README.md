@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0053-maximum-subarray) |
+| [0057-insert-interval](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0152-maximum-product-subarray) |
