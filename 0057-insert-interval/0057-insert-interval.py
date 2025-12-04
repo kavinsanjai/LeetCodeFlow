@@ -5,16 +5,24 @@ class Solution(object):
         :type newInterval: List[int]
         :rtype: List[List[int]]
         """
-        # new_interval=[]
-        # for i in range(0,len(intervals)):
-        #     if newInterval[1] < intervals[i][0]:
-        #         intervals.insert(i,newInterval)
-        #         break
-        # print(intervals)
-        intervals.append(newInterval)
-        intervals.sort()
-        print(intervals)
         new_interval=[]
+        inserted = False
+        
+        if len(intervals) == 0:
+            return [newInterval]
+
+        for i in range(len(intervals)):
+            if newInterval[0] < intervals[i][0]:
+                intervals.insert(i, newInterval)
+                inserted = True
+                break
+
+        if not inserted:
+            intervals.append(newInterval)
+        # intervals.append(newInterval)
+        # intervals.sort()
+        # print(intervals)
+        # new_interval=[]
         for i in range(0,len(intervals)):
             if not new_interval:
                 new_interval.append(intervals[i])
