@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0130-surrounded-regions) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0200-number-of-islands) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0152-maximum-product-subarray) |
