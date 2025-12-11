@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0072-edit-distance](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0076-minimum-window-substring) |
 | [0290-word-pattern](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0387-first-unique-character-in-a-string) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0198-house-robber) |
