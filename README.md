@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0076-minimum-window-substring) |
 | [0290-word-pattern](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0290-word-pattern) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0005-longest-palindromic-substring) |
 | [0189-rotate-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0349-intersection-of-two-arrays) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0070-climbing-stairs) |
