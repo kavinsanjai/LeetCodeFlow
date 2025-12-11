@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0076-minimum-window-substring) |
 | [0290-word-pattern](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0424-longest-repeating-character-replacement) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0647-palindromic-substrings) |
 | [0861-flipping-an-image](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0861-flipping-an-image) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0746-min-cost-climbing-stairs) |
