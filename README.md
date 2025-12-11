@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0749-shortest-completing-word) |
 | [0851-goat-latin](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0851-goat-latin) |
 | [0857-positions-of-large-groups](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0857-positions-of-large-groups) |
+| [1143-longest-common-subsequence](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1143-longest-common-subsequence) |
 | [1156-occurrences-after-bigram](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1156-occurrences-after-bigram) |
 | [1205-defanging-an-ip-address](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1143-longest-common-subsequence) |
 | [1299-k-concatenation-maximum-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1299-k-concatenation-maximum-sum) |
 ## Number Theory
 |  |
