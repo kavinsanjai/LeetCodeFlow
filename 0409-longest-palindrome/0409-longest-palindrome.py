@@ -3,10 +3,8 @@ class Solution(object):
         fre=Counter(s)
         maxi=0
         count=0
-        print(fre)
         for i,j in fre.items():
             if j%2==0:
-                print("Even:",j)
                 count+=j
             elif j%2!=0:
                 if j>maxi:
@@ -14,7 +12,6 @@ class Solution(object):
                         count+=maxi-1
                     maxi=j
                 else:
-                    print("Odd",j)
                     rem=j-1
                     count+=rem
         count+=maxi
