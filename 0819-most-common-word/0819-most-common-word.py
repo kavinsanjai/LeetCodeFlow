@@ -4,7 +4,6 @@ class Solution(object):
         paragraph=paragraph.split()
         fre=Counter(paragraph)
         fre = sorted(fre.items(), key=lambda x: x[1], reverse=True)
-        print(fre)
         for i,j in fre:
             if i not in banned:
                 return i
