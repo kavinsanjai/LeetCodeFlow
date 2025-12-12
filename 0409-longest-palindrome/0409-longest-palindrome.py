@@ -1,20 +1,17 @@
 class Solution(object):
     def longestPalindrome(self, s):
-        fre=Counter(s)
-        maxi=0
+        fre=Counter(s).most_common()
         count=0
-        for i,j in fre.items():
+        seen=False
+        for i,j in fre:
             if j%2==0:
                 count+=j
-            elif j%2!=0:
-                if j>maxi:
-                    if maxi>0:
-                        count+=maxi-1
-                    maxi=j
+            else:
+                if seen:
+                    count+=j-1
                 else:
-                    rem=j-1
-                    count+=rem
-        count+=maxi
+                    seen=True
+                    count+=j
         return count
             
 
