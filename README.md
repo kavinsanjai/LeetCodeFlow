@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0583-delete-operation-for-two-strings) |
@@ -452,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2390-removing-stars-from-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
