@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0819-most-common-word) |
 | [0924-fair-candy-swap](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1256-rank-transform-of-an-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1319-unique-number-of-occurrences) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0898-transpose-matrix) |
 | [0924-fair-candy-swap](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0994-rotting-oranges) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1020-number-of-enclaves](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1020-number-of-enclaves) |
