@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1143-longest-common-subsequence) |
 | [1299-k-concatenation-maximum-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1299-k-concatenation-maximum-sum) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Number Theory
 |  |
 | ------- |
