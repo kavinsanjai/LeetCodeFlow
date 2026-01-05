@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1791-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1929-concatenation-of-array) |
 | [1944-truncate-sentence](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1944-truncate-sentence) |
+| [1975-maximum-matrix-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1975-maximum-matrix-sum) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2211-k-radius-subarray-averages](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2211-k-radius-subarray-averages) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0561-array-partition) |
 | [1323-maximum-69-number](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1323-maximum-69-number) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1975-maximum-matrix-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1975-maximum-matrix-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1791-richest-customer-wealth) |
+| [1975-maximum-matrix-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1975-maximum-matrix-sum) |
 ## Sliding Window
 |  |
 | ------- |
