@@ -1,5 +1,5 @@
-class Solution(object):
-    def minEatingSpeed(self, piles, h):
+class Solution:
+    def minEatingSpeed(self, piles: List[int], h: int) -> int:
         max_pile=0
         low=1
         min_hr=float('inf')
@@ -9,13 +9,9 @@ class Solution(object):
             hr=0
             speed=low+(max_pile-low)//2
             for i in range(0,len(piles)):
-                hr+=(piles[i]+speed-1)//speed
+                hr+=math.ceil(piles[i] / speed)
             if hr<=h:
                 max_pile=speed-1
             else:
                 low=speed+1
         return  low   
-
-
-            
-        
