@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0076-minimum-window-substring) |
+| [0217-contains-duplicate](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0349-intersection-of-two-arrays) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0349-intersection-of-two-arrays) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0350-intersection-of-two-arrays-ii) |
