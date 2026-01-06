@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0057-insert-interval) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0349-intersection-of-two-arrays) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0070-climbing-stairs) |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0042-trapping-rain-water) |
 | [2390-removing-stars-from-a-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
 |  |
@@ -503,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0876-middle-of-the-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
