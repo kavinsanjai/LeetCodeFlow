@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1470-shuffle-the-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1505-create-target-array-in-the-given-order](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1505-create-target-array-in-the-given-order) |
 | [1547-destination-city](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1547-destination-city) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
