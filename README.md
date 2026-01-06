@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0349-intersection-of-two-arrays) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0509-fibonacci-number) |
 ## Depth-First Search
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0143-reorder-list) |
 | [2390-removing-stars-from-a-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
 |  |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0876-middle-of-the-linked-list) |
 ## Monotonic Stack
