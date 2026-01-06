@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0645-set-mismatch) |
 | [0749-shortest-completing-word](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0749-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0819-most-common-word) |
+| [0904-fruit-into-baskets](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0904-fruit-into-baskets) |
 | [0924-fair-candy-swap](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0924-fair-candy-swap) |
 | [0930-binary-subarrays-with-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0940-fruit-into-baskets) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0861-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0875-koko-eating-bananas) |
 | [0898-transpose-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0898-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0904-fruit-into-baskets) |
 | [0924-fair-candy-swap](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0924-fair-candy-swap) |
 | [0930-binary-subarrays-with-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0940-fruit-into-baskets) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1046-max-consecutive-ones-iii) |
