@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0567-permutation-in-string) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0561-array-partition) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0143-reorder-list) |
+| [0496-next-greater-element-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0496-next-greater-element-i) |
 | [2390-removing-stars-from-a-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
 |  |
@@ -534,4 +537,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
