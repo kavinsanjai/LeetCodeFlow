@@ -10,7 +10,6 @@ class Solution:
             
             for i in range(start,len(candidates)):
                 arr.append(candidates[i])
-                print(i)
                 backtrack(arr,currsum+candidates[i],i)
             
                 arr.pop()
