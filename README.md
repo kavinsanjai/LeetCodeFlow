@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1791-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1929-concatenation-of-array) |
