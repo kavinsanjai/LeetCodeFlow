@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1954-replace-all-digits-with-characters) |
 | [1970-sorting-the-sentence](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1970-sorting-the-sentence) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1929-concatenation-of-array) |
 | [1944-truncate-sentence](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1944-truncate-sentence) |
 | [1975-maximum-matrix-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1975-maximum-matrix-sum) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2211-k-radius-subarray-averages](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2211-k-radius-subarray-averages) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1970-sorting-the-sentence](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1970-sorting-the-sentence) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3778-transform-array-by-parity](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3778-transform-array-by-parity) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0347-top-k-frequent-elements) |
 | [1127-last-stone-weight](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
@@ -422,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Prefix Sum
 |  |
 | ------- |
