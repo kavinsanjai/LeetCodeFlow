@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0283-move-zeroes) |
+| [0312-burst-balloons](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0213-house-robber-ii) |
+| [0312-burst-balloons](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0312-burst-balloons) |
 | [0392-is-subsequence](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0509-fibonacci-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0583-delete-operation-for-two-strings) |
