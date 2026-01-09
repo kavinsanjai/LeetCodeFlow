@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0645-set-mismatch) |
 | [0749-shortest-completing-word](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0749-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0819-most-common-word) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-fruit-into-baskets](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0904-fruit-into-baskets) |
 | [0924-fair-candy-swap](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0924-fair-candy-swap) |
 | [0930-binary-subarrays-with-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0930-binary-subarrays-with-sum) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0733-flood-fill) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1020-number-of-enclaves](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0733-flood-fill) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0617-merge-two-binary-trees) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
@@ -510,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0617-merge-two-binary-trees) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Graph
