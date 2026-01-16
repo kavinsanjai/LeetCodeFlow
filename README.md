@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3453-separate-squares-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3454-separate-squares-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3453-separate-squares-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3454-separate-squares-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -591,4 +593,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0210-course-schedule-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3454-separate-squares-ii) |
+## Sweep Line
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
