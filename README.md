@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3453-separate-squares-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3454-separate-squares-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2491-smallest-even-multiple) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-matrix-cells-in-distance-order](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1115-valid-boomerang) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Memoization
 |  |
 | ------- |
