@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0349-intersection-of-two-arrays) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0930-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1046-max-consecutive-ones-iii) |
@@ -615,4 +617,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
