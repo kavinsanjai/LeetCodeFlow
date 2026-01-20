@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3454-separate-squares-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0861-flipping-an-image) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
