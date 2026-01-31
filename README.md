@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0746-min-cost-climbing-stairs) |
 | [0749-shortest-completing-word](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0749-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0819-most-common-word) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0875-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1046-max-consecutive-ones-iii) |
