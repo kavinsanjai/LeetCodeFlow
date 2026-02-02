@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2634-minimum-common-value](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2634-minimum-common-value) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2211-k-radius-subarray-averages](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2211-k-radius-subarray-averages) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
