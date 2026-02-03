@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3637-trionic-array-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3778-transform-array-by-parity](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
