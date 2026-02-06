@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3637-trionic-array-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3778-transform-array-by-parity](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3640-trionic-array-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Number Theory
 |  |
