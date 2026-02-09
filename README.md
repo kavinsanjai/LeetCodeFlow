@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0561-array-partition) |
 | [1323-maximum-69-number](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1323-maximum-69-number) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1382-balance-a-binary-search-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1975-maximum-matrix-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0347-top-k-frequent-elements) |
+| [1382-balance-a-binary-search-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1382-balance-a-binary-search-tree) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
 |  |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -603,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1382-balance-a-binary-search-tree) |
 ## Graph
 |  |
 | ------- |
@@ -695,4 +700,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
