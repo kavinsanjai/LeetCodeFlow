@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0005-longest-palindromic-substring) |
+| [0067-add-binary](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0076-minimum-window-substring) |
 | [0290-word-pattern](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0290-word-pattern) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0189-rotate-array) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0861-flipping-an-image) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0067-add-binary) |
 | [0645-set-mismatch](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0861-flipping-an-image) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
