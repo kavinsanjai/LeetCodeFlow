@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0696-count-binary-substrings) |
 | [0749-shortest-completing-word](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0749-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0819-most-common-word) |
 | [0851-goat-latin](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0851-goat-latin) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0696-count-binary-substrings) |
 | [0861-flipping-an-image](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0861-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0876-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1468-check-if-n-and-its-double-exist) |
