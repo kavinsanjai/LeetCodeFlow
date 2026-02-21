@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1094-matrix-cells-in-distance-order](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1115-valid-boomerang) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1266-minimum-time-visiting-all-points) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0861-flipping-an-image) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3314-construct-the-minimum-bitwise-array-i) |
