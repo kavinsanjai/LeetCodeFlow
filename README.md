@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1542-consecutive-characters](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1542-consecutive-characters) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1547-destination-city](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1547-destination-city) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1619-path-crossing](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1619-path-crossing) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0898-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1505-create-target-array-in-the-given-order](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1505-create-target-array-in-the-given-order) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1806-count-of-matches-in-tournament](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1806-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2390-removing-stars-from-a-string) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0509-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Depth-First Search
 |  |
 | ------- |
