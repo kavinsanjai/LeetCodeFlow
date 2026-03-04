@@ -12,7 +12,6 @@ class Solution(object):
                 if mat[i][j]==1:
                     row[i]+=1
                     col[j]+=1
-        print(row,col)
         
         for i in range(0,len(row)):
             for j in range(0,len(col)):
