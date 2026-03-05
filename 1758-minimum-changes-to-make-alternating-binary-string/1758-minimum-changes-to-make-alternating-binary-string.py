@@ -1,9 +1,7 @@
 class Solution(object):
     def minOperations(self, s):
         count_0=('01'*len(s))[:len(s)]
-        print(count_0)
         count_1=('10'*len(s))[:len(s)]
-        print(count_1)
         s_count,f_count=0,0
         for i in range(0,len(s)):
             if s[i]!=count_0[i]:
