@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1619-path-crossing](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1619-path-crossing) |
 | [1651-shuffle-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1651-shuffle-string) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1797-goal-parser-interpretation) |
 | [1812-reformat-phone-number](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1812-reformat-phone-number) |
