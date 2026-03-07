@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1797-goal-parser-interpretation) |
 | [1812-reformat-phone-number](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1812-reformat-phone-number) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1944-truncate-sentence](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1954-replace-all-digits-with-characters) |
 | [1970-sorting-the-sentence](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1970-sorting-the-sentence) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2211-k-radius-subarray-averages](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2211-k-radius-subarray-averages) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-k-concatenation-maximum-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1299-k-concatenation-maximum-sum) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3640-trionic-array-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3651-minimum-cost-path-with-teleportations) |
