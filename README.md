@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-path-crossing](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1619-path-crossing) |
 | [1635-number-of-good-pairs](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1980-find-unique-binary-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1980-find-unique-binary-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2634-minimum-common-value](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2634-minimum-common-value) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1954-replace-all-digits-with-characters) |
 | [1970-sorting-the-sentence](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1970-sorting-the-sentence) |
+| [1980-find-unique-binary-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1929-concatenation-of-array) |
 | [1944-truncate-sentence](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1944-truncate-sentence) |
 | [1975-maximum-matrix-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0039-combination-sum) |
 | [0401-binary-watch](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1980-find-unique-binary-string) |
 ## Topological Sort
 |  |
 | ------- |
