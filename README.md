@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3379-transformed-array) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2491-smallest-even-multiple) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1975-maximum-matrix-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Counting Sort
 |  |
@@ -530,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
