@@ -822,4 +822,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kavinsanjai/LeetCodeFlow/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
